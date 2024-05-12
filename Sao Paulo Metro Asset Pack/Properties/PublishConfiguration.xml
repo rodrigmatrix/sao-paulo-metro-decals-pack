@@ -10,9 +10,14 @@
 	<LongDescription>
 ## Custom decal asset to customize subway stations
 
-# PLEASE PLACE ALL ASSETS USING ANARCHY, OTHERWISE THEY WILL DISSAPEER.
+## PLEASE PLACE ALL ASSETS USING ANARCHY, OTHERWISE THEY WILL DISAPPEAR.
 
-#### You can place all of the line numbers and names on top of Base Station Sign. Create the entrances as you want with multiple exits and names.
+# How to use it
+1. Place the Metro Sao Paulo Base Station Sign Decal in a station, wall, billboard.. using Anarchy.
+2. Add the station name decal on top of the Station Sign. There are names in english and brazilian portuguese.
+3. Add relevant icons for the lines available in that station. For custom stations with multiple entrances, I recomend the Modular Subway Station Assets Pack.
+4. For the subway map, place a Screen asset and after that place the Metro Sao Paulo Screen Poster on top of it.
+
 #### All of the lines names, colors and icons are based in the Sao Paulo Metro in Brazil.
   </LongDescription>
 	<!--Thumbnail-->
@@ -38,9 +43,9 @@
 	<!--Dependency for the mod, can be set multiple times-->
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
   <ChangeLog>
-    # v1.0.2
-    - Added metro white icon
-    - Added lines 18 to 22
+# v1.0.2
+1. Added metro white icon.
+2. Added lines 18 to 22.
   </ChangeLog>
 	<!--ChangeLog>
 	</ChangeLog-->

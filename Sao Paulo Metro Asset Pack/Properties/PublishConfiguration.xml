@@ -24,6 +24,8 @@
   <Screenshot Value="ParadoxRes/Screenshot4.png" />
   <Screenshot Value="ParadoxRes/Screenshot5.png" />
   <Screenshot Value="ParadoxRes/Screenshot6.png" />
+  <Screenshot Value="ParadoxRes/Screenshot7.png" />
+  <Screenshot Value="ParadoxRes/Screenshot8.png" />
 	<!--Tag, can be set multiple times-->
 	<Tag Value="Code Mod" />
 	<!--Link to the forum post where the mod can be discussed-->

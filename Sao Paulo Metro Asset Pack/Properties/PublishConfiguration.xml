@@ -30,14 +30,15 @@
 	<ForumLink Value="https://forum.paradoxplaza.com/forum/threads/sao-paulo-metro-asset-pack.1676215/" />
   <Dependency Id="80529" />
 	<!--Version of the mod-->
-	<ModVersion Value="1.0.1" />
+	<ModVersion Value="1.0.2" />
 	<!--Recommended version of the base game to use the mod-->
   <GameVersion Value="1.1.*" />
 	<!--Dependency for the mod, can be set multiple times-->
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
   <ChangeLog>
-    # v1.0.1
+    # v1.0.2
     - Added metro white icon
+    - Added lines 18 to 22
   </ChangeLog>
 	<!--ChangeLog>
 	</ChangeLog-->

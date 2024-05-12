@@ -1,0 +1,43 @@
+﻿<Publish>
+	<!--Id must be set in order to update existed mod. it is not required for publishing mod for the first time-->
+	<ModId Value="" />
+	<!--Name of the mod to display to players-->
+	<DisplayName Value="Sao Paulo Metro Asset Pack" />
+	<!--Short description of the mod-->
+	<ShortDescription Value="Custom decal assets to customize subway stations" />
+	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
+	<!--LongDescription Value="This is a long description" /-->
+	<LongDescription>
+    Custom decal asset to customize subway stations
+    
+    PLEASE PLACE ALL ASSETS USING ANARCHY, OTHERWISE THEY WILL DISSAPEER.
+    
+    You can place all of the line numbers and names on top of Base Station Sign. Create the entrances as you want with multiple exits and names. 
+    All of the lines names, colors and icons are based in the Sao Paulo Metro in Brazil.
+  </LongDescription>
+	<!--Thumbnail-->
+	<Thumbnail Value="ParadoxRes/Thumbnail.png" />
+	<!--Screenshot, can be set multiple times-->
+	<Screenshot Value="ParadoxRes/Screenshot1.png" />
+  <Screenshot Value="ParadoxRes/Screenshot2.png" />
+  <Screenshot Value="ParadoxRes/Screenshot3.png" />
+  <Screenshot Value="ParadoxRes/Screenshot4.png" />
+  <Screenshot Value="ParadoxRes/Screenshot5.png" />
+  <Screenshot Value="ParadoxRes/Screenshot6.png" />
+	<!--Tag, can be set multiple times-->
+	<Tag Value="Code Mod" />
+	<!--Link to the forum post where the mod can be discussed-->
+	<ForumLink Value="https://forum.paradoxplaza.com/forum/threads/sao-paulo-metro-asset-pack.1676215/" />
+  <Dependency Id="80529" />
+	<!--Version of the mod-->
+	<ModVersion Value="1.0" />
+	<!--Recommended version of the base game to use the mod-->
+  <GameVersion Value="1.1.*" />
+	<!--Dependency for the mod, can be set multiple times-->
+	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
+	<ChangeLog Value="" />
+	<!--ChangeLog>
+	</ChangeLog-->
+	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
+  <ExternalLink Type="github" Url="https://github.com/rodrigmatrix/sao-paulo-metro-decals-pack" />
+</Publish>

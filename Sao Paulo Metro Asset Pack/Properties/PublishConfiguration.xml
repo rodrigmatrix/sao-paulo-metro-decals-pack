@@ -2,7 +2,7 @@
 	<!--Id must be set in order to update existed mod. it is not required for publishing mod for the first time-->
 	<ModId Value="80745" />
 	<!--Name of the mod to display to players-->
-	<DisplayName Value="Sao Paulo Metro Asset Pack" />
+	<DisplayName Value="Subway Decal Asset Pack" />
 	<!--Short description of the mod-->
 	<ShortDescription Value="Custom decal assets to customize subway stations" />
 	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
@@ -10,13 +10,19 @@
 	<LongDescription>
 ## Custom decal asset to customize subway stations
 
+## YOU CAN WATCH THE YOUTUBE VIDEO LINKED TO UNDERSTAND HOW TO USE IT.
 ## PLEASE PLACE ALL ASSETS USING ANARCHY, OTHERWISE THEY WILL DISAPPEAR.
 
 # How to use it
-1. Place the Metro Sao Paulo Base Station Sign Decal in a station, wall, billboard.. using Anarchy.
+1. For placing the assets, you need to disable Snap upright in the snapping options.
 2. Add the station name decal on top of the Station Sign. There are names in english and brazilian portuguese.
-3. Add relevant icons for the lines available in that station. For custom stations with multiple entrances, I recomend the Modular Subway Station Assets Pack.
+3. Add relevant icons for the lines available in that station. For custom stations with multiple entrances, I recommend the Modular Subway Station Assets Pack.
 4. For the subway map, place a Screen asset and after that place the Metro Sao Paulo Screen Poster on top of it.
+
+
+# Using maps and screens
+Metro Next Train Screen -> Healthcare Logo Wall Medium.
+Metro Sao Paulo Screen Poster -> Screen01 - ADDAD_AdAdvertiseHere (DO NOT USE THE SCREEN 01 WITHOUT AD. YOU WILL NOT BE ABLE TO PLACE THE POSTER)
 
 #### All of the lines names, colors and icons are based in the Sao Paulo Metro in Brazil.
   </LongDescription>
@@ -31,24 +37,27 @@
   <Screenshot Value="ParadoxRes/Screenshot6.png" />
   <Screenshot Value="ParadoxRes/Screenshot7.png" />
   <Screenshot Value="ParadoxRes/Screenshot8.png" />
+  <Screenshot Value="ParadoxRes/Screenshot9.png" />
 	<!--Tag, can be set multiple times-->
 	<Tag Value="Code Mod" />
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="https://forum.paradoxplaza.com/forum/threads/sao-paulo-metro-asset-pack.1676215/" />
   <Dependency Id="80529" />
-	<!--Version of the mod-->
-	<ModVersion Value="1.0.2" />
+  <Dependency Id="80528" />
+  <Dependency Id="74604" />
+  <!--Version of the mod-->
+	<ModVersion Value="1.1" />
 	<!--Recommended version of the base game to use the mod-->
   <GameVersion Value="1.1.*" />
 	<!--Dependency for the mod, can be set multiple times-->
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
   <ChangeLog>
-# v1.0.2
-1. Added metro white icon.
-2. Added lines 18 to 22.
+-# v1.1
+-1. Added new Metro Next Train Screen to be used with the Healthcare Logo Wall Medium.
   </ChangeLog>
 	<!--ChangeLog>
 	</ChangeLog-->
 	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
   <ExternalLink Type="github" Url="https://github.com/rodrigmatrix/sao-paulo-metro-decals-pack" />
+  <ExternalLink Type="youtube" Url="https://www.youtube.com/watch?v=fujlnLny-BM" />
 </Publish>

@@ -46,14 +46,14 @@ Metro Sao Paulo Screen Poster -> Screen01 - ADDAD_AdAdvertiseHere (DO NOT USE TH
   <Dependency Id="80528" />
   <Dependency Id="74604" />
   <!--Version of the mod-->
-	<ModVersion Value="1.1" />
+	<ModVersion Value="1.1.1" />
 	<!--Recommended version of the base game to use the mod-->
-  <GameVersion Value="1.1.*" />
+  <GameVersion Value="1.*" />
 	<!--Dependency for the mod, can be set multiple times-->
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
   <ChangeLog>
--# v1.1
--1. Added new Metro Next Train Screen to be used with the Healthcare Logo Wall Medium.
+# Release 1.1.1
+- Updated to new game version
   </ChangeLog>
 	<!--ChangeLog>
 	</ChangeLog-->
